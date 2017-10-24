@@ -5,7 +5,7 @@
 
 **说明**：
 1.因为在架构的时候是基于SDK(framework)的模式来进行开发的 所以该案例下载下来看到的目录结构是这样的
-![ico原来的样子](https://github.com/jilei6/HttpRequestSDK/blob/master/Request/1.png)
+![ico原来的样子](https://github.com/jilei6/HttpRequestSDK/blob/master/Request/1.png)    
 Request/RequestDev目录就是你的项目目录 Request/RequestSDK就是该框架的源文件项目，你可以在RequestDev下的项目文件进行测试编译，在RequestSDK下的项目文件进行源码编译打包framework文件。
 
 
@@ -13,7 +13,7 @@ Request/RequestDev目录就是你的项目目录 Request/RequestSDK就是该框�
 ![ico原来的样子](https://github.com/jilei6/HttpRequestSDK/blob/master/Request/2.png)
 
 
-** 架构优势**：
+**架构优势**：
 1.既可以编译framework直接使用，也可以将开源框架源文件拖入项目直接使用
 
 2.降低项目中的耦合
@@ -21,7 +21,7 @@ Request/RequestDev目录就是你的项目目录 Request/RequestSDK就是该框�
 3.统一配置，方便后期维护。
 
 
-** 使用方法**：
+**使用方法**：
 1.导入SDK文件
 2.创建自定义model并继承于DRHYModel
 
