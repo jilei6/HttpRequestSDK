@@ -8,6 +8,7 @@
 
 1.因为在架构的时候是基于SDK(framework)的模式来进行开发的 所以该案例下载下来看到的目录结构是这样的
 ![ico原来的样子](https://github.com/jilei6/HttpRequestSDK/blob/master/Request/1.png)
+
 Request/RequestDev目录就是你的项目目录 Request/RequestSDK就是该框架的源文件项目，你可以在RequestDev下的项目文件进行测试编译，在RequestSDK下的项目文件进行源码编译打包framework文件。
 
 
@@ -27,6 +28,7 @@ Request/RequestDev目录就是你的项目目录 Request/RequestSDK就是该框�
 **使用方法**：
 
 1.导入SDK文件
+
 2.创建自定义model并继承于DRHYModel
 
 ```
