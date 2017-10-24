@@ -65,7 +65,7 @@
     LoginModel * login=[[LoginModel alloc]init];
     login.showWaiting=NO;
     login.requesturl = @"http://xxx.com/api/test/date_list";
-//    login.account = @"13816207221";
+//    login.account = @"1851624xxxx";
 //    login.password = @"123456";
 //    login.appId = @"3";
 //    //login.secret = @"ddddddd";
